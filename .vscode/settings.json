@@ -8,7 +8,9 @@
         "firebase-admin-9.1.1.jar",
         "firebase-admin-9.1.1-javadoc.jar",
         "google-auth-library-oauth2-http-1.15.0.jar",
-        "google-cloud-firestore-3.7.1.jar"
+        "google-cloud-firestore-3.7.1.jar",
+        "c:\\Users\\Usuario\\Downloads\\guava-32.1.3-jre.jar",
+        "guava-32.1.3-jre.jar"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
