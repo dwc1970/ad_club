@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "mongo-java-driver-3.12.14.jar",
+        "c:\\Users\\Usuario\\Downloads\\google-cloud-firestore-3.7.1.jar",
+        "c:\\Users\\Usuario\\Downloads\\google-auth-library-oauth2-http-1.15.0.jar",
+        "c:\\Users\\Usuario\\Downloads\\firebase-admin-9.1.1-javadoc.jar",
+        "firebase-admin-9.1.1.jar",
+        "firebase-admin-9.1.1-javadoc.jar",
+        "google-auth-library-oauth2-http-1.15.0.jar",
+        "google-cloud-firestore-3.7.1.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}

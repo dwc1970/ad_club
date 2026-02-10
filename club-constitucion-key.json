@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "club-constitucion",
+    "private_key_id": "38aa55d50796688ca64ec4e82889b7122e80febb",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC14wF6oEhHM10S\nqdVOuy3TqCmSs4juxJIuNA+DOwqnjCFous1QB9dob6UIWcB9VKCemiF4pDFcXmkY\n3szYOpqdVQTaD4Mok2JylatMF/eb8dZE1/8kAZWHiJ+WHEdkucwON1syhG4pbV2g\nupD2oSjevakvbHBHkPdGehWqLxtw5naGBxF0wKSbUIgLPTQ8h2rhl9wSQFXSSme4\nTeScUm/Iklphm3+Za2LWGcfzjB2OozjdTYIt2tc1kLA2zW1IXlAkypW6e2LAeQYI\nzhIyZappr9vEID2L4G5gsQcsa33/LSbYykqO86aHcOCHlXj3UPPdAYBFI8kfLncR\n6pCSxDVlAgMBAAECggEAF97f/dD1S2rhRybE2N1V6VZDhn5LdVKVAL1SX92qy0xn\nwg/qDBvLWGh2lz74NTqbDdWamPOrirzVPC9ZYPNoAUf8KAYrJ3MYU4NzBLyMgYne\nnhBe6sHOdwgmMZQqhnyf3CnFrT6WGpfA1uxFRCjobTsk7hVkMvBCk5xIJZqjFlDg\nD4LgC0p0tEqm2Q+FGbkAUAV+EPSHjMIhdaD6kiWpfYMMDs6wLxoWdHpU+vElhk7i\n+8z0o0Gl/HYFMxKVt3fTWrz9ZYmLQVqi5e0B8AJVd5jvBiaYsudeTRTlMbFFwzgY\nDq9PuCeO3lE5ehCLH1w/MPMY54pwiGsb7eSAkE6mrQKBgQDYDf8z/CwvI5ArCPUS\nRqOoZmipqvlaH43ruSp7DUZQSJSJ3/3kBNv8OSfUQ+PEhGcltrYAxIQSX4Gz+ySe\nWajHRpOGX4VyipVYzBP9WFDHk7ZtD7nRrSK+9AGs0iBL0kWsF8HkQuALm1Ojv3M+\nzd9kECaIqHqxrn2qX98w4BK1bwKBgQDXg9G1OaTb5KWwzZaszWC800qi/Lv4amO4\nwIgZEr78UFLGEECQ133DlDNrRQoMkBIwLhB7qST3boJrjC1pw1tLqBBsHSwlC2tc\n+g7xUC1O4ZIDjUWRACn15GtsX0e61kP6TJ1qc0R6GKsKBoxUiR+xwUxfUggvbydP\nNeLSWsOgawKBgA19cj3QtQGMeuf0+zhU6MsO+eH+JuuVpMrfGOPuBEHnBj9FmRiv\npPyupOoAAyy2B6q3Kc4KdySeif6u465vcrZelb+CH1bziDevJmBfL0wG0REmNjf9\nU3oQyjn8NMAHNQp1wUl7U3nmDObggVWejSA2UfGec2q8tmP48HqgwwpJAoGAHivn\nNP7f9KT7CViO6pxKGcVe4piNXEbQtTHHG/OC52H7ZJ0r3Ns+UR4zYKYmtQGKelJI\nnndcpINFIPdb+D2QT3Q08F3ZK0qA+mBLrT7zSOLNhU/G2Hj0ZudWnrJsIV0T4TvO\nofOHN6yybVHjXYZg+Iq+PW4HlVRzZWR+38IzNwcCgYBSWXmphQHoC5ZIEIU74gyN\n2ZzXc8qWgXo0pF8dsbU+8QZfSot5wG2cCLhBWVeNw8YTtKFNqIoh2veP3Id9BCI5\nEv+5t2lavz5B2nCxP+lig/2iFYr+pKtEKU89XtQMQ445wc31ZhDHBZaW7x28Y7xq\n5OWqCJCYUrFA17pmfQjeRQ==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-fbsvc@club-constitucion.iam.gserviceaccount.com",
+    "client_id": "111869077933697217495",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40club-constitucion.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
